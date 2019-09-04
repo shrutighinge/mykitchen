@@ -1,0 +1,19 @@
+nav {
+  background-color: purple;
+  text-decoration-color: plum;
+}
+.jumbotron {
+  background-color: plum;
+  color: purple;
+  height: 20em;
+}
+.card {
+  background-color: plum;
+  color: purple;
+}
+blockquote {
+  align-content: center;
+  background-color: plum;
+  color: purple;
+  width: 100%;
+}
